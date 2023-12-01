@@ -7,6 +7,7 @@ async function ingresar() {
     if(usuariosExistente.some(usuario => usuario.username === user && usuario.password === password))
     {
         alert("Inicio de sesion exitoso!");
+        window.location.href = "https://client-notfriv-production.up.railway.app/";
         return;
     }
     else{
