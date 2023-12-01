@@ -1,0 +1,23 @@
+[
+  {
+    "name": "NoBorrarEsteRegistro",
+    "lastname": "NoBorrarEsteRegistro",
+    "mail": "NoBorrarEsteRegistro@NoBorrarEsteRegistro.com",
+    "username": "NoBorrarEsteRegistro",
+    "password": "NoBorrarEsteRegistro"
+  },
+  {
+    "name": "Jahir",
+    "lastname": "Rivera",
+    "mail": "jahir@gmail.com",
+    "username": "iamjahir",
+    "password": "Prueba12345"
+  },
+  {
+    "name": "Jahir",
+    "lastname": "Rivera",
+    "mail": "jahirrivera@gmail.com",
+    "username": "iamjahirrivera",
+    "password": "Prueba12345"
+  }
+]

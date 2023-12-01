@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Registrate</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+    <div id="calculator">
+        <h2 id="h3">Registrate</h2>
+        <form action="">
+            <input type="text" id="nombre" class="display" placeholder="Nombre(s)." required>
+            <input type="text" id="apellido" class="display" placeholder="Apellido." required>
+            <input type="text" id="mail" class="display" placeholder="E-Mail." required>
+            <input type="text" id="username" class="display" placeholder="Username." required>
+            <input type="password" id="contrasenia" class="display" placeholder="Contraseña." required>
+            <br>
+            <label for="">¿Ya tienes una cuenta?</label>
+            <a href="../index.html"><br>¡Inicia sesión!<br></a>
+            <br>
+            <button class="btn" onclick="guardarDato(event)">Registrarse</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
